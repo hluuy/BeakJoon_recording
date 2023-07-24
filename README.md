@@ -1,1 +1,2 @@
-# BeakJoon_recording
+# BeakJoon
+BeakJoon 기록용
